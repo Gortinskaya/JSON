@@ -1,7 +1,11 @@
 {
-    "name": "Иван",
-  "age": 37,
+    "name": "Mari",
+  "age": 30,
   "mother": {
-    "name": "Ольга",
-    "age": 58}
+    "name": "Svetlana",
+    "age": 53}
+    "pets": {
+     "name": "Cat Bu"
+     "age": "4"
+    } 
 }
